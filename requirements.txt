@@ -1,0 +1,10 @@
+flask 
+langchain
+langchain_community 
+faiss-cpu 
+PyPDF2 
+python-dotenv 
+pickle
+flask_cors
+react
+axios
